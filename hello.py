@@ -1,1 +1,1 @@
-print('hey dumbfuck, looking good today huh')
+print('hey dumbfuck, looking good today huh?')
